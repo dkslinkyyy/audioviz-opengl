@@ -1,3 +1,3 @@
-###Audio visualiser
+##Audio visualiser
 # A program that visualizes audio using OpenGL
-#just boilerplate code for now..
+just boilerplate code for now..
